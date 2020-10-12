@@ -1,0 +1,36 @@
+.data{
+	display: inline-flex;
+	color: #ffffff
+}
+
+.time{
+	display: inline-flex;
+	float: right;
+	color: #ffffff
+}
+nav {
+	/* border: solid black; */
+	margin: 0px 3vw 0px 3vw;
+	box-sizing: content-box;
+	filter: drop-shadow(0.5vw 2vh 3px #6e566db4);
+}
+
+.divider{
+	block-size: 1vh;
+	margin: 0.13vh 4vw;
+	background-color: #835f94;
+	border-bottom: solid 1vh #000000;
+
+}
+.nav-link {
+	font-size: 2.5rem;
+	font-weight: bold;
+
+}
+
+.dt-panel{
+
+	border: solid #000000;
+	box-sizing: content-box;
+	background-color: black;
+}
