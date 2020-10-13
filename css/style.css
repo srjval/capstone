@@ -11,17 +11,13 @@ nav {
 	margin: 0.13vh 4vw;
 	background-color: #835f94;
 	border-bottom: solid 1vh #000000;
-
 }
 .nav-link {
 	font-size: 2.5rem;
 	font-weight: bold;
-
 }
 
 .dt-panel{
-
-	border: solid #000000;
 	box-sizing: content-box;
 	background-color: black;
 }
