@@ -1,18 +1,9 @@
-.data{
-	display: inline-flex;
-	color: #ffffff
-}
 
-.time{
-	display: inline-flex;
-	float: right;
-	color: #ffffff
-}
 nav {
 	/* border: solid black; */
 	margin: 0px 3vw 0px 3vw;
 	box-sizing: content-box;
-	filter: drop-shadow(0.5vw 2vh 3px #6e566db4);
+	filter: drop-shadow(0.5vw 2vh 4.3px #867686b4);
 }
 
 .divider{
@@ -33,4 +24,12 @@ nav {
 	border: solid #000000;
 	box-sizing: content-box;
 	background-color: black;
+}
+
+.container{
+	display: inline-block;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #ffffff;
+
 }
