@@ -5,6 +5,13 @@ nav {
 	box-sizing: content-box;
 	filter: drop-shadow(0.5vw 2vh 4.3px #867686b4);
 }
+.container{
+	display: inline-block;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #ffffff;
+
+}
 
 .divider{
 	block-size: 1vh;
@@ -20,12 +27,4 @@ nav {
 .dt-panel{
 	box-sizing: content-box;
 	background-color: black;
-}
-
-.container{
-	display: inline-block;
-	font-family: Arial, Helvetica, sans-serif;
-	font-weight: bold;
-	color: #ffffff;
-
 }
