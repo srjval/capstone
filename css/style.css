@@ -43,3 +43,6 @@ nav {
 	font-weight: bold;
 }
 
+body > div{
+	border: solid red;
+}
