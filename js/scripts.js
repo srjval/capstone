@@ -38,8 +38,11 @@ function renderTime(){
 		}
 
 		var myClock = document.getElementById("clockDisplay");
-		myClock.textContent = "" + dayarray[day] + " " + daym + " " + montharray[month] + " " + year + " | " + h + ":" + m + ":" + s;
-		myClock.innerText = "" + dayarray[day] + " " + daym + " " + montharray[month] + " " + year + " | " + h + ":" + m + ":" + s;
+		myClock.textContent = dayarray[day] + " " + daym + " " + montharray[month] + " " + year 
+		myClock.innerText = dayarray[day] + " " + daym + " " + montharray[month] + " " + year 
+		var myClock = document.getElementById("clockDisplay1");
+		myClock.textContent =  h + ":" + m + ":" + s;
+		myClock.innerText = h + ":" + m + ":" + s;
 
 		setTimeout("renderTime()",1000);
 		
