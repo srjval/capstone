@@ -43,6 +43,6 @@ nav {
 	font-weight: bold;
 }
 
-body > div{
-	border: solid red;
+.main_img{
+	width: 100vw;
 }
