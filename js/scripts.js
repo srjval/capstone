@@ -8,7 +8,7 @@ function renderTime(){
 	var day = mydate.getDay();
 	var month = mydate.getMonth();
 	var daym = mydate.getDate();
-	var dayarray = new Array ("Sunday","Monday","Tuesday","Wednesday","Thurstday","Friday","Saturday");
+	var dayarray = new Array ("Sun","Mon","Tue","Wed","Thu","Fri","Sat");
 	var montharray = new Array ("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec");
 	// Date end
 	
