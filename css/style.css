@@ -29,7 +29,7 @@ nav {
 	/* border: solid black; */
 	margin: 0px 3vw 0px 3vw;
 	box-sizing: content-box;
-	filter: drop-shadow(0.5vw 2vh 4.3px #867686b4);
+	/* filter: drop-shadow(0.5vw 2vh 4.3px #867686b4); */
 	font-family: monospace, Impact, serif, sans-serif,  arial; 
 }
 
