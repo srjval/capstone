@@ -30,6 +30,7 @@ nav {
 	margin: 0px 3vw 0px 3vw;
 	box-sizing: content-box;
 	filter: drop-shadow(0.5vw 2vh 4.3px #867686b4);
+	font-family: monospace, Impact, serif, sans-serif,  arial; 
 }
 
 
@@ -40,7 +41,6 @@ nav {
 }
 .nav-link {
 	font-size: 2.5rem;
-	font-weight: bold;
 }
 
 .main_img{
