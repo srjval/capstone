@@ -46,3 +46,10 @@ nav {
 .main_img{
 	width: 100vw;
 }
+
+.main_txt{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 2vw;
+	text-align: center;
+	color: #282828;
+}
