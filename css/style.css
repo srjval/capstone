@@ -58,3 +58,10 @@ nav {
 	text-align: center;
 	color: #282828;
 }
+
+.bass_img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 65vh;
+}
