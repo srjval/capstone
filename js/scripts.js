@@ -53,3 +53,8 @@ renderTime();
 // Just put this code and it works
 // myclock.innerText = dayarray[day] + " " + daym+  " " + montharray[month] + " " + year + " | " + h + " : " + m + " : " + s;
 // Thanks to Philosofisk
+
+// MDB Lightbox Init
+$(function () {
+	$("#mdb-lightbox-ui").load("mdb-addons/mdb-lightbox-ui.html");
+	});
