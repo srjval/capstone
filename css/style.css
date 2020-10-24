@@ -70,7 +70,9 @@ nav {
 
 
 .row{
-	text-align: center;
 	display: inline-block;
+	text-align: center;
+	box-sizing: border-box;
+
 }
 
